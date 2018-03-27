@@ -1,0 +1,1 @@
+insert into sales (Item_ID, Date_Time, Quantity_Sold) values (1, now(), 8);

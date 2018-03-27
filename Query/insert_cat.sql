@@ -1,0 +1,1 @@
+insert into category (Prod_Type) values ("Medicine");

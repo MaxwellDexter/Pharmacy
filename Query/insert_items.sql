@@ -1,0 +1,1 @@
+insert into items (Prod_ID, Item_Name, Total_Quantity) values (1, "Panadol", 30);
