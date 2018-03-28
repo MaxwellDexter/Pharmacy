@@ -6,9 +6,18 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1.Model
 {
-    static class Category
+    class Category
     {
         private static Dictionary<int, String> _dict = new Dictionary<int, String>();
+
+        public Category(List<String> categoriesList)
+        {
+            //need to fetch from database or change to non-static
+            for(int i=0; i < categoriesList.Count; i++)
+            {
+                _dict.Add(i, categoriesList[i]);
+            }
+        }
 
         public static String getItemCategory(int id)
         {

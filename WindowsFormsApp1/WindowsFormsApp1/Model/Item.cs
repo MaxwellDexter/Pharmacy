@@ -13,13 +13,15 @@ namespace WindowsFormsApp1.Model
         private int _totalQuantity;
         private int _prodId;
         private String _category;
+        private double _price;
 
-        public Item(int itemId, String itemName, int totalQuantity, int prodId)
+        public Item(int itemId, String itemName, int totalQuantity, int prodId, double price)
         {
-            this._itemId = itemId;
-            this._itemName = ItemName;
-            this._totalQuantity = totalQuantity;
-            this._prodId = prodId;
+            _itemId = itemId;
+            _itemName = itemName;
+            _totalQuantity = totalQuantity;
+            ProdID = prodId;
+            _price = price;
         }
 
         public int ProdID
@@ -27,7 +29,7 @@ namespace WindowsFormsApp1.Model
             set
             {
                 _prodId = value;
-                _category = Category.getItemCategory(_prodId);
+                _category = Category.getItemCategory(_prodId-1);
             }
         }
 
@@ -47,7 +49,12 @@ namespace WindowsFormsApp1.Model
             }
         }
 
-
-
+        public double Price
+        {
+            get
+            {
+                return _price;
+            }
+        }
     }
 }

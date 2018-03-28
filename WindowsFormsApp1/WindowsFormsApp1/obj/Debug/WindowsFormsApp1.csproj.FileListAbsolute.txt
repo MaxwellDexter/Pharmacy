@@ -1,0 +1,13 @@
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nunit.framework.dll
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nunit.framework.pdb
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\nunit.framework.xml
+E:\Swinburne\2018 Semester 4\DP2\Work\Software\Pharmacy\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete

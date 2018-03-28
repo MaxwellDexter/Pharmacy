@@ -6,16 +6,23 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1.Model
 {
-    class Sales
+    class Sale
     {
         private int _itemId;
         private int _quatitySold;
 
-        public Sales(int itemId, int quantitySold)
+        public Sale(int itemId, int quantitySold)
         {
             this._itemId = itemId;
             this._quatitySold = quantitySold;
         }
 
+        public int QuantitySold
+        {
+            get
+            {
+                return _quatitySold;
+            }
+        }
     }
 }
