@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PharmaSave
 {
-    public partial class Form1 : Form
+    public partial class home : Form
     {
-        public Form1()
+        public home()
         {
             InitializeComponent();
         }
@@ -28,6 +28,16 @@ namespace PharmaSave
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void home_Load(object sender, EventArgs e)
         {
 
         }
